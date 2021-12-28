@@ -1,3 +1,46 @@
 img{
     width: 100%;
 }
+
+.Header{
+    position: relative;
+    text-align: center;
+    color: white;
+    
+}
+.Logo {
+    position: absolute;
+    top: 37%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 90%;
+}
+
+h1{
+    position: absolute;
+    top: 48%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 250%;
+    
+}
+
+h6 {
+    position: absolute;
+    top: 58%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 120%;
+}
+
+.Wrapper{
+    resize: both;
+    overflow: auto;
+    position: relative;
+   
+}
+
+
+body{
+    font-family:  'Rancho', cursive;
+}
