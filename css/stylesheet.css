@@ -32,3 +32,19 @@ body{
 
 }
 
+.Portfolio1{
+    float: left;
+    padding: 5px;
+    
+}
+
+.Portfolio2{
+    float: left;
+    padding: 5px;
+}
+
+.Row{
+    display: flex;
+    margin: auto;
+    width: 50%;
+}
