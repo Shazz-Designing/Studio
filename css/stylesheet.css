@@ -29,7 +29,14 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
+    padding-top: 2%;
+    margin-top: 2%;
+    padding-bottom: 7%;
 
+}
+
+.portfolioSection{
+    margin-top: 2%;
 }
 
 .Portfolio1{
@@ -46,5 +53,36 @@ body{
 .Row{
     display: flex;
     margin: auto;
-    width: 50%;
+    width: 65%;
+}
+
+.Form {
+    margin: auto;
+    width: 60%;
+    color: white;
+   
+}
+
+.form-floating{
+    margin-top: 20px;
+    width: 67%;
+    margin-left: 5.5%;
+    border: 2px;
+    color: white;
+    border-color: white;
+  
+}
+
+.Col{
+    border-color: white;
+}
+
+::placeholder { 
+    color: white;
+    opacity: 1; 
+  }
+
+.form-control::placeholder { 
+    color: white;
+    opacity: 1; 
 }
