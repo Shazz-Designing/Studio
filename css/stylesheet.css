@@ -120,3 +120,15 @@ body{
 .col-12{
     margin-top: 2%;
 }
+
+.DesignDescription{
+    display: none;
+}
+
+.DevelopmentDescription{
+    display: none;
+}
+
+.ProductManagementDescription{
+    display: none;
+}
