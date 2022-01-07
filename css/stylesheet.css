@@ -42,12 +42,17 @@ body{
 .Portfolio1{
     float: left;
     padding: 5px;
+    position: relative;
+    text-align: center;
+    color: black;
     
 }
 
 .Portfolio2{
     float: left;
     padding: 5px;
+    position: relative;
+    color: black;
 }
 
 .Row{
@@ -55,6 +60,7 @@ body{
     margin: auto;
     width: 65%;
 }
+
 
 .Form {
     margin: auto;
@@ -120,3 +126,10 @@ body{
     margin-top: 2%;
 }
 
+.work1text, .work2text, .work3text, .work4text, .work5text, .work6text, .work7text, .work8text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+}
