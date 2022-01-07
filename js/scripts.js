@@ -199,6 +199,15 @@ $("#work8Image").hover(function() {
         $('.work8text').fadeOut();
 });
     
+//Code for thanking the user once they submit their message
+
+contactForm.onsubmit = function thankUser()
+{
+//Get users name
+    let usersName = document.getElementById("firstName").value;
+    alert((usersName) + " we have received your message.Thank you for reaching out to us!")
+
+}
     
 });
 
