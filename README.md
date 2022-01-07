@@ -10,7 +10,9 @@ This is the Landing page for Delani studio detailing the services offered, offer
 
 ## Setup/Installation Requirements
 
-This landing site can be viewed on any web browser
+This landing site can be viewed on any web browser by using the link below
+
+https://shazz-designing.github.io/Studio/
 
 ## Known Bugs
 
